@@ -1,0 +1,10 @@
+C:\Users\koala1708\Desktop\Дистанционное обучение\Сандова\граф. элементы\граф. элементы\bin\Debug\граф.элементы.exe.config
+C:\Users\koala1708\Desktop\Дистанционное обучение\Сандова\граф. элементы\граф. элементы\bin\Debug\граф.элементы.exe
+C:\Users\koala1708\Desktop\Дистанционное обучение\Сандова\граф. элементы\граф. элементы\bin\Debug\граф.элементы.pdb
+C:\Users\koala1708\Desktop\Дистанционное обучение\Сандова\граф. элементы\граф. элементы\obj\Debug\граф. элементы.csprojAssemblyReference.cache
+C:\Users\koala1708\Desktop\Дистанционное обучение\Сандова\граф. элементы\граф. элементы\obj\Debug\граф.элементы.Form1.resources
+C:\Users\koala1708\Desktop\Дистанционное обучение\Сандова\граф. элементы\граф. элементы\obj\Debug\граф.элементы.Properties.Resources.resources
+C:\Users\koala1708\Desktop\Дистанционное обучение\Сандова\граф. элементы\граф. элементы\obj\Debug\граф. элементы.csproj.GenerateResource.cache
+C:\Users\koala1708\Desktop\Дистанционное обучение\Сандова\граф. элементы\граф. элементы\obj\Debug\граф. элементы.csproj.CoreCompileInputs.cache
+C:\Users\koala1708\Desktop\Дистанционное обучение\Сандова\граф. элементы\граф. элементы\obj\Debug\граф.элементы.exe
+C:\Users\koala1708\Desktop\Дистанционное обучение\Сандова\граф. элементы\граф. элементы\obj\Debug\граф.элементы.pdb
